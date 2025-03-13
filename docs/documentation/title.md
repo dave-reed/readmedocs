@@ -1,5 +1,5 @@
 ---
-title: 'Title '
+title: Change this
 deprecated: false
 hidden: false
 metadata:
